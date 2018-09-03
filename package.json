@@ -1,5 +1,5 @@
 {
-  "name": "ud-reselling",
+  "name": "ud-reselling-client",
   "version": "0.0.0",
   "description": "Library to communicate with the united domain reselling API",
   "main": "index.js",
