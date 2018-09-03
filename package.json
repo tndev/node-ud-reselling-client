@@ -23,6 +23,14 @@
   "jest": {
     "verbose": true
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tndev/node-ud-reselling-client.git"
+  },
   "author": "Till Niese",
-  "license": "BSD-3-Clause"
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/tndev/node-ud-reselling-client/issues"
+  },
+  "homepage": "https://github.com/tndev/node-ud-reselling-client#readme"
 }
