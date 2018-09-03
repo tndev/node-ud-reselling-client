@@ -1,0 +1,28 @@
+{
+  "name": "ud-reselling",
+  "version": "0.0.0",
+  "description": "Library to communicate with the united domain reselling API",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "dependencies": {
+    "debug": "^3.1.0"
+  },
+  "devDependencies": {
+    "codecov": "^3.0.4",
+    "dotenv": "^6.0.0",
+    "jest": "^23.5.0",
+    "should": "^13.2.3"
+  },
+  "scripts": {
+    "test": "jest --runInBand",
+    "test-ci": "jest --runInBand --coverage"
+  },
+  "jest": {
+    "verbose": true
+  },
+  "author": "Till Niese",
+  "license": "BSD-3-Clause"
+}
