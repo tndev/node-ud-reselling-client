@@ -1,5 +1,7 @@
 # ud-reselling
 
+[![Build Status](https://travis-ci.org/tndev/node-ud-reselling-client.svg?branch=master)](https://travis-ci.org/tndev/node-ud-reselling-client)
+
 A module that provides an easy to use promise based interface to communicate with API of [ud-reselling](https://www.ud-reselling.com/)
 
 **WARNING: The API, error handling and the returned results not finalized yet.**
